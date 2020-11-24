@@ -1,9 +1,9 @@
 # Write your solution here
 puts Time.now
 
-currentTime = Time.now
+current_time = Time.now
 
-if currentTime%2==0
+if current_time%2==0
   puts "Even!"
 else 
   puts "Odd!"
